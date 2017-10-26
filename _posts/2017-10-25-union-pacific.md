@@ -1,0 +1,63 @@
+---
+layout: post
+title: union-pacific
+---
+
+Businessmodel of Union Pacific
+-------------------------------
+
+### Customer Segments
+
+Union Pacific has a mass market business model, with no significant differentiation between customer segments. The company targets its services at firms in almost any industry that need to transport their goods. That said, its customers can most commonly be found in the agricultural products, automotive, chemicals, coal, and industrial products sectors.
+
+### Value Proposition
+
+Union Pacific offers three primary value propositions: accessibility, risk reduction, and brand/status.
+
+The company creates accessibility by offering a wide variety of options. It provides transportation services for one of the most diversified ranges of commodities in the industry, including chemicals, coal, consumer products, food and food products, forest products, grain and grain products, government, intermodal, metals, minerals, waste, and automobiles and parts.
+
+The company reduces risk by maintaining high safety standards. It has developed and is in the process of implementing its Positive Train Control (PTC) system, which involves multiple technologies working together to manage and monitor train movements. The technologes include GPS, antennas, satellites, locomotive and base station radios, and telecom and signal elements. Thus far, the company has equipped over 3,200 locomotives with the system. Union Pacific also reduces risk by having strong security measures. It maintains a comprehensive security plan that features four levels of alert status, each with countermeasures. It also operates its own force of over 250 police officers.
+
+The company has established a powerful brand due to its success. It has the largest railroad network in the United States, with its franchise covering 23 states across the western two-thirds of the country. It serves several of the fastest-growing U.S. population centers, operates from all major Gulf Coast and West Coast ports to eastern gateways, connects with Canada's rail systems, and is the only railroad serving all six major Mexico gateways. It serves 10,000 customers and operates the largest diesel-electric fleet in the country. Lastly, it has won many honors, including the following:
+
+ * Recognition as one of 100 Most Trustworthy Companies In America by *Forbes*
+* Recognition as one of America's Best Employers by *Forbes*
+* Recognition as one of *Fortune's* Most Admired Companies
+* Recognition as one of Military.com‘s 2016 Best Companies for Veterans
+* The Logistics Excellence Awards from Toyota Logistics Services
+ ### Channels
+
+Union Pacific’s main channel is its direct sales team, which is divided into six groups based on commodities. The company promotes its offering through its website and social media pages.
+
+### Customer Relationships
+
+Union Pacific’s customer relationship is primarily of an automated nature. The company provides its services without a need for significant interaction with customers.
+
+That said, it does offer the option of a dedicated Shipment Quality team and an Industrial Development group, which offer specialized services involving site and location analysis for business development.
+
+### Key Activities
+
+Union Pacific’s business model entails designing, developing, and delivering its services to customers.
+
+### Key Partners
+
+Union Pacific’s key suppliers are two unspecified domestic firms that provide it with high horsepower locomotives. It also utilizes two steel producers (one domestic, one international) for a large percentage of its rail purchases, as well as suppliers for fuel and various materials and services.
+
+The company’s website features a section called “Supplier Resources” that includes helpful tools, including an eBusiness glossary, a “Supplier Excellence Manual”, and answers to common questions.
+
+### Key Resources
+
+Union Pacific’s main resources are its physical resources, the most important of which is its rail network, which includes 32,084 route miles (it owns 26,064 miles and operates on the rest through trackage rights or leases). It also depends on its collection of over 8,500 locomotives and over 66,863 freight cars.
+
+Moreover, it operates the Harriman Dispatching Center, its primary dispatching facility, in Omaha, Nebraska. Lastly, it depends on train drivers and customer service personnel.
+
+### Cost Structure
+
+Union Pacific has a cost-driven structure, aiming to minimize expenses through significant automation. Its biggest cost driver is compensation/benefits for staff. Other major drivers are cost of services and materials, cost of fuel, and cost of equipment, all variable expenses.
+
+### Revenue Streams
+
+Union Pacific has two revenue streams:
+
+ * Freight Revenues – Revenues generated through fees paid by customers for the transport of freight or other materials. Sales vary with volume (carloads) and average revenue per car (ARC).
+* Other Revenues – Include revenues generated by subsidiaries, from commuter rail operations, accessorial revenues (earned when customers retain equipment owned or controlled by Union Pacific or when it performs extra services such as storage or switching), and miscellaneous contract revenues.

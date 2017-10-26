@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="posts">
+
+	<div class="column-left">
+	{% for post in site.posts reversed %}
+		{% assign first_letter=post.title | slice: 0,1 %}
+		{% if first_letter < "f" %}
+		<article class="post">
+			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+		</article>
+		{% endif %}
+	{% endfor %}		
+	</div>
+
+	<div class="column-center">
+	{% for post in site.posts reversed %}
+		{% assign first_letter=post.title | slice: 0,1 %}
+		{% if first_letter >= "f" and first_letter < "p" %}
+		<article class="post">
+			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+		</article>
+		{% endif %}
+	{% endfor %}		
+	</div>
+
+	<div class="column-right">
+	{% for post in site.posts reversed %}
+		{% assign first_letter=post.title | slice: 0,1 %}
+		{% if first_letter >= "p" %}
+		<article class="post">
+			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+		</article>
+		{% endif %}
+	{% endfor %}
+	</div>
+
+</div>
